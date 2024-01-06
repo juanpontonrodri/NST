@@ -1,0 +1,6 @@
+-Botones mas pequeños
+
+-Pantalla balance con opcion a pantalla de pagos
+-Pantalla de pagos
+-pagos
+-Descentralizar
